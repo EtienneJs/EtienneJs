@@ -1,5 +1,5 @@
  # Bienvenid@ al GitHub de Etienne Fernandez <div style="margin-top:10px" align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RsZHEydnhwemZhOTR6bGtnY294bDdqcHhwbDdyMzdpOGJteGVyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.webp" width="200"/></div>
-## About Me
+## Sobre mi
 Soy un Desarrollador Fullstack apasionado con 2 años de experiencia en la creación de aplicaciones web escalables y amigables para el usuario. Mi experiencia abarca tanto el desarrollo frontend como backend, lo que me permite crear aplicaciones completas y funcionales de principio a fin.
 ### Skills
 ## Front end 
@@ -49,3 +49,6 @@ Soy un Desarrollador Fullstack apasionado con 2 años de experiencia en la creac
     </tr>
 </table>
 
+## Contactame
+<a href="https://www.linkedin.com/in/etienne-fernandez-guajardo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:etiennemfernandez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
