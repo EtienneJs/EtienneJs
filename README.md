@@ -1,6 +1,10 @@
- # Bienvenid@ al GitHub de Etienne Fernandez <div style="margin-top:10px" align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RsZHEydnhwemZhOTR6bGtnY294bDdqcHhwbDdyMzdpOGJteGVyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.webp" width="200"/></div>
+
+ # Bienvenid@ al GitHub de Etienne Fernandez <div style="margin-top:10px" align="center"><img src="./isaac.gif" width="200"/></div>
 ## Sobre mi
+<p>
 Soy un Desarrollador Fullstack apasionado con 2 años de experiencia en la creación de aplicaciones web escalables y amigables para el usuario. Mi experiencia abarca tanto el desarrollo frontend como backend, lo que me permite crear aplicaciones completas y funcionales de principio a fin.
+</p>
+
 ### Skills
 ## Front end 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
