@@ -14,45 +14,7 @@ Soy un Desarrollador Fullstack apasionado con 2 años de experiencia en la creac
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <img width="36" height="36" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s"/>
-### Proyectos
-<table width="100%">
-    <tr>
-        <td align="center" colspan="4">Front end</td>
-    </tr>
-    <tr>
-        <td>Nombre</td>
-        <td>Link</td>
-        <td>Descripcion</td>
-        <td>tecnologias</td>
-    </tr>   
-    <tr>
-        <td align="center" colspan="4">Back end</td>
-    </tr>
-    <tr>
-        <td>Nombre</td>
-        <td>Link</td>
-        <td>Descripcion</td>
-        <td>tecnologias</td>
-    </tr>
-    <tr>
-        <td align="center" colspan="4">FullStack</td>
-    </tr>
-    <tr>
-        <td>Nombre</td>
-        <td>Link</td>
-        <td>Descripcion</td>
-        <td>tecnologias</td>
-    </tr>
-    <tr>
-        <td align="center" colspan="4">Otros Proyectos</td>
-    </tr>
-    <tr>
-        <td>Nombre</td>
-        <td>Link</td>
-        <td>Descripcion</td>
-        <td>tecnologias</td>
-    </tr>
-</table>
+
 
 ## Contactame
 <a href="https://www.linkedin.com/in/etienne-fernandez-guajardo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
